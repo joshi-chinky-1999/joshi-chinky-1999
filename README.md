@@ -1,5 +1,3 @@
-# README.md
-
 <h1 align="center">Hi 👋, I'm Shivani Joshi</h1>
 <h3 align="center">A passionate Java developer from Baharat</h3>
 
