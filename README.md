@@ -20,15 +20,12 @@
   </a>
 </p>
 
-<!-- Social Media Badge -->
-<p align="center">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
-  </a>
-</p>
 
-## 🔭 Currently Working On
-- **Tonic** (Project name)
+
+## 🔭 Working On many projects
+- **Tonic**
+- **CBRE**
+- **creditsussie**
 
 ## 🌱 Learning
 - **Java** and **Spring Boot** (To further enhance backend skills)
@@ -39,34 +36,23 @@
 ## 📫 Reach Me At
 - **Email**: [jj@gmail.com](mailto:jj@gmail.com)
 
-<h3 align="center">Languages & Tools:</h3>
+<h3 align="center" style="font-size: 1.5em; font-weight: bold; color: #333;">Languages & Tools:</h3>
 <p align="center">
-  <!-- Adding logos for tools and languages -->
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
+  <!-- Adding logos for tools and languages with hover effect and spacing -->
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="margin: 10px; transition: transform 0.3s ease-in-out;">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50" style="border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin: 10px; transition: transform 0.3s ease-in-out;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://www.spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
+  <a href="https://www.spring.io/" target="_blank" rel="noreferrer" style="margin: 10px; transition: transform 0.3s ease-in-out;">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="50" height="50" style="border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 10px; transition: transform 0.3s ease-in-out;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-</p>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 10px; transition: transform 0.3s ease-in-out;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="
 
 <!-- GitHub Stats -->
 <p align="center">
