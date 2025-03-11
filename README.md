@@ -1,42 +1,85 @@
-<h1 align="left">👋 Hi, I'm Shivani Joshi</h1>
+<h1 align="center">👋 Hi, I'm Shivani Joshi</h1>
 
-<h3 align="left">
-  I’m a <strong>Software Engineer</strong> with a focus on <strong>scalable backend development</strong> using <strong>Java</strong> and <strong>Spring Boot</strong>.
+<h3 align="center">
+  I’m a <strong>Software Engineer</strong> focused on <strong>scalable backend development</strong> with <strong>Java</strong> and <strong>Spring Boot</strong>.
 </h3>
 
-<p align="left">
-  I specialize in crafting <strong>efficient</strong>, <strong>high-performance solutions</strong> by applying <strong>design patterns</strong> and <strong>object-oriented principles</strong>. I'm always staying up-to-date with the latest <strong>technologies</strong> and best practices to continuously improve <strong>application scalability</strong> and <strong>performance</strong>.
+<p align="center">
+  I specialize in crafting <strong>efficient</strong>, <strong>high-performance solutions</strong> using <strong>design patterns</strong> and <strong>object-oriented principles</strong>. Continuously enhancing <strong>application scalability</strong> and <strong>performance</strong> by learning new technologies and following best practices.
 </p>
 
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joshi-chinky-1999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshi-chinky-1999&label=Profile%20views&color=0e75b6&style=flat" alt="joshi-chinky-1999" /> </p>
-
+<!-- GitHub Trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=joshi-chinky-1999" alt="joshi-chinky-1999" width="500" height="auto" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); padding: 10px; background-color: #f9f9f9;"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=joshi-chinky-1999" alt="GitHub Trophy" width="500" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); padding: 10px; background-color: #f9f9f9;" />
   </a>
 </p>
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Tonic**
-
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **I'm software engg**
-
-- 📫 How to reach me **jj@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Social Media Badge -->
+<p align="center">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 🔭 Currently Working On
+- **Tonic** (Project name)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshi-chinky-1999&show_icons=true&locale=en&layout=compact" alt="joshi-chinky-1999" /></p>
+## 🌱 Learning
+- **Java** and **Spring Boot** (To further enhance backend skills)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshi-chinky-1999&show_icons=true&locale=en" alt="joshi-chinky-1999" /></p>
+## 💬 Ask Me About
+- Software Engineering, Backend Development, Java, Spring Boot
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshi-chinky-1999&" alt="joshi-chinky-1999" /></p>
+## 📫 Reach Me At
+- **Email**: [jj@gmail.com](mailto:jj@gmail.com)
+
+<h3 align="center">Languages & Tools:</h3>
+<p align="center">
+  <!-- Adding logos for tools and languages -->
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
+  <a href="https://www.spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joshi-chinky-1999&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshi-chinky-1999&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshi-chinky-1999&" alt="GitHub Streak Stats" />
+</p>
+
