@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani Joshi</h1>
-<h3 align="center">A passionate Java developer from Baharat</h3>
+<h3 align="center">I’m a Software Engineer focused on scalable backend development with Java and Spring Boot. I specialize in creating efficient, high-performance solutions using design patterns and object-oriented principles. Constantly learning new technologies and practice to enhance application scalability and performance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshi-chinky-1999&label=Profile%20views&color=0e75b6&style=flat" alt="joshi-chinky-1999" /> </p>
 
