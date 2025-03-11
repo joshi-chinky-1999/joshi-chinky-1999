@@ -1,5 +1,13 @@
-<h1 align="Left">Hi 👋, I'm Shivani Joshi</h1>
-<h3 align="Left">I’m a Software Engineer focused on scalable backend development with Java and Spring Boot. I specialize in creating efficient, high-performance solutions using design patterns and object-oriented principles. Constantly learning new technologies and practice to enhance application scalability and performance.</h3>
+<h1 align="left">👋 Hi, I'm Shivani Joshi</h1>
+
+<h3 align="left">
+  I’m a <strong>Software Engineer</strong> with a focus on <strong>scalable backend development</strong> using <strong>Java</strong> and <strong>Spring Boot</strong>.
+</h3>
+
+<p align="left">
+  I specialize in crafting <strong>efficient</strong>, <strong>high-performance solutions</strong> by applying <strong>design patterns</strong> and <strong>object-oriented principles</strong>. I'm always staying up-to-date with the latest <strong>technologies</strong> and best practices to continuously improve <strong>application scalability</strong> and <strong>performance</strong>.
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshi-chinky-1999&label=Profile%20views&color=0e75b6&style=flat" alt="joshi-chinky-1999" /> </p>
 
